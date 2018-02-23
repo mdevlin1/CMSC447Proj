@@ -2,11 +2,32 @@
 /* Always set the map height explicitly to define the size of the div
 * element that contains the map. */
 #map {
-    height: 70%;
+    height: 85%;
+    margin: auto;
     width: 70%;
+    border: 3px;
 }
+
+#mapbg {
+    height: 550px;
+    margin: auto;
+    width: 70%;
+    border: 3px;
+    padding: 10px;
+    background-color: #8d9bb5;
+}
+
+#buttonbg {
+    margin: auto;
+    width: 70%;
+    border: 3px;
+    padding: 10px;
+    background-color: #8d9bb5;
+}
+
 /* Optional: Makes the sample page fill the window. */
 html, body {
+    background-color: #a3b1c9;
     height: 100%;
     margin: 0;
     padding: 0;
