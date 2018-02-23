@@ -3,6 +3,6 @@
 
 To use this web app, run the script:
 * Windows: script.bat
-* Mac: script.sh
+* Mac/Linux: script.sh
 
 Then open a browser and navigate to http://localhost:8000
